@@ -29,7 +29,8 @@
 - [API Cadastro de Professores](https://github.com/Matheus-torrao/API-cadastro-Professor)  
   API REST com Node.js e Express para gerenciamento de professores.
 
-- [Pipeline de dados com Docker](https://github.com/Matheus-torrao/pipeline_dados_Iot_docker.git)Projeto de Leitura,Processamento e visualização de um dataset com sensores IOT.
+- [Pipeline de dados com Docker](https://github.com/Matheus-torrao/pipeline_dados_Iot_docker.git)
+-    Projeto de Leitura,Processamento e visualização de um dataset com sensores IOT.
 
 - [Gerenciador de Senhas](https://github.com/Matheus-torrao/gerenciadorsenhas)  
   Projeto que simula o armazenamento de senhas com segurança.
