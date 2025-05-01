@@ -29,8 +29,7 @@
 - [API Cadastro de Professores](https://github.com/Matheus-torrao/API-cadastro-Professor)  
   API REST com Node.js e Express para gerenciamento de professores.
 
-- [Gestão de Estoque](https://github.com/Matheus-torrao/gestao_estoque)  
-  Aplicação com interface para controle de produtos e movimentação de estoque.
+- [Pipeline de dados com Docker](https://github.com/Matheus-torrao/)
 
 - [Gerenciador de Senhas](https://github.com/Matheus-torrao/gerenciadorsenhas)  
   Projeto que simula o armazenamento de senhas com segurança.
