@@ -38,7 +38,6 @@
 ## 🌐 Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/matheus-torrão) 
-- [GitHub](https://github.com/Matheus-torrao)
 
 ---
 
