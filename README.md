@@ -27,7 +27,7 @@
 ## 📌 Projetos em Destaque
 
 - [API Cadastro de Professores](https://github.com/Matheus-torrao/API-cadastro-Professor)  
-  API REST com Node.js e Express para gerenciamento de professores.
+  API com Node.js e Express para gerenciamento de professores.
 
 - [Pipeline de dados com Docker](https://github.com/Matheus-torrao/pipeline_dados_Iot_docker.git)
 -   Projeto de Leitura,Processamento e visualização de um dataset com sensores IOT.
