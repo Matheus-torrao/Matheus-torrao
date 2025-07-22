@@ -4,7 +4,7 @@
 
 ---
 
-Me chamo Matheus Tenho 22 anos e sou um entusiasta da tecnologia, com foco em me tornar um desenvolvedor Back-End. Atualmente, estou estudando e desenvolvendo projetos para aprofundar meus conhecimentos, sou residente do interior do rio de janeiro e estou buscando maneiras de encontrar minha primeira vaga como dev Back-end.
+Me chamo **`Matheus`** Tenho 22 anos e sou um entusiasta da tecnologia, com foco em me tornar um desenvolvedor Back-End. Atualmente, estou estudando e desenvolvendo projetos para aprofundar meus conhecimentos, sou residente do interior do rio de janeiro e estou buscando maneiras de encontrar minha primeira vaga como **`Desenvolvedor Back-End`**.
 
 <p align="left">
     <a href="https://github.com/Matheus-torrao?tab=repositories&sort=stargazers">
