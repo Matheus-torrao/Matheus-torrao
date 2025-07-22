@@ -1,6 +1,9 @@
 # 👩🏻‍💻 Matheus Torrão 
 
 **`Desenvolvedor Back-End`**
+
+---
+
 Me chamo Matheus Tenho 22 anos e sou um entusiasta da tecnologia, com foco em me tornar um desenvolvedor Back-End. Atualmente, estou estudando e desenvolvendo projetos para aprofundar meus conhecimentos em tecnologias como Node.js, sou residente do interior do rio de janeiro e estou buscando maneiras de encontrar minha primeira vaga como dev Back-end.
 
 <p align="left">
