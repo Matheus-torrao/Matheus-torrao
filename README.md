@@ -4,7 +4,7 @@
 
 ---
 
-"**Desenvolvedor **Back-end** focado em arquitetura escalável com Node.js e Python. Experiência na criação de APIs RESTful, automação de pipelines de dados e containerização com Docker.
+Desenvolvedor **Back-end** focado em arquitetura escalável com Node.js e Python. Experiência na criação de APIs RESTful, automação de pipelines de dados e containerização com Docker.
 
 <p align="left">
     <a href="https://github.com/Matheus-torrao?tab=repositories&sort=stargazers">
