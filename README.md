@@ -4,7 +4,7 @@
 
 ---
 
-Me chamo **`Matheus`** Tenho 22 anos e sou um entusiasta da tecnologia, com foco em me tornar um desenvolvedor Back-End. Atualmente, estou estudando e desenvolvendo projetos para aprofundar meus conhecimentos, sou residente do interior do rio de janeiro e estou buscando maneiras de encontrar minha primeira vaga como **`Desenvolvedor Back-End`**.
+"**Desenvolvedor **Back-end** focado em arquitetura escalável com Node.js e Python. Experiência na criação de APIs RESTful, automação de pipelines de dados e containerização com Docker.
 
 <p align="left">
     <a href="https://github.com/Matheus-torrao?tab=repositories&sort=stargazers">
