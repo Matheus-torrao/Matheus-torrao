@@ -41,9 +41,7 @@ Desenvolvedor **Back-end** focado em arquitetura escalável com Node.js e Python
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus-torrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
+
 <p align="left">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-torrao&theme=tokyonight" />
 </p>
